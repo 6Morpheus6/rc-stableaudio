@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/peanutcocktail/RC-stable-audio-tools app",
+          "git clone https://github.com/RoyalCities/RC-stable-audio-tools app",
         ]
       }
     },
